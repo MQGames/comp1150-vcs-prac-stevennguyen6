@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewScript : MonoBehaviour
+public class MovementScript : MonoBehaviour
 {
     public Vector2 speed = new Vector2(10, 10);
     public Vector2 jumpHeight;
